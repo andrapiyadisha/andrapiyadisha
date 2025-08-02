@@ -67,7 +67,6 @@
 
 ## 🤝 Let’s Connect!
 
-- 🌐 [Portfolio Website](#) (optional)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
 - 📧 [Email Me](mailto:your.email@example.com)
 
