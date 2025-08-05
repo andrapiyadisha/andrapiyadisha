@@ -14,7 +14,6 @@
 - 🎯 Passionate about solving real-world problems through code  
 - 🧠 Currently learning **.NET Core**, **Data Structures**, and **Full Stack Development**  
 - 👩‍💻 Actively contributing to open-source and personal projects  
-- 🏆 Top 6 finalist in college coding fest *Froli* (30+ teams)
 - 🧡 [![GSSoC Contributor](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square&logo=github)](https://gssoc.girlscript.tech/)
 
 ---
