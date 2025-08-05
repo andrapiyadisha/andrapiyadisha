@@ -4,7 +4,7 @@
 🎓 CS Student at <b>Darshan University</b> <br/>
 📍 Rajkot, Gujarat, India <br/>
 💻 Web Development | Java | MERN Stack Enthusiast <br/>
-📫 <a href="dishaandrapiya1812@gmail.com">Email</a> • <a href="https://www.linkedin.com/indisha-andrapiya-2ba5342b4/">LinkedIn</a>
+📫 <a href="mailto:dishaandrapiya1812@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/disha-andrapiya-2ba5342b4/">LinkedIn</a>
 </p>
 
 ---
@@ -15,6 +15,7 @@
 - 🧠 Currently learning **.NET Core**, **Data Structures**, and **Full Stack Development**  
 - 👩‍💻 Actively contributing to open-source and personal projects  
 - 🏆 Top 6 finalist in college coding fest *Froli* (30+ teams)
+- 🧡 [![GSSoC Contributor](https://img.shields.io/badge/GSSoC-2025-orange?style=flat-square&logo=github)](https://gssoc.girlscript.tech/)
 
 ---
 
@@ -67,10 +68,9 @@
 
 ## 🤝 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/disha-andrapiya-2ba5342b4/)
+- 📧 [Email Me](mailto:dishaandrapiya1812@gmail.com)
 
 ---
 
-_✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
+> _✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House_
