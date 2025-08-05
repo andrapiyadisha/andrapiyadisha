@@ -4,7 +4,7 @@
 🎓 CS Student at <b>Darshan University</b> <br/>
 📍 Rajkot, Gujarat, India <br/>
 💻 Web Development | Java | MERN Stack Enthusiast <br/>
-📫 <a href="mailto:your.email@example.com">Email</a> • <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a>
+📫 <a href="dishaandrapiya1812@gmail.com">Email</a> • <a href="https://www.linkedin.com/indisha-andrapiya-2ba5342b4/">LinkedIn</a>
 </p>
 
 ---
