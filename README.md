@@ -1,58 +1,195 @@
 <div align="center">
 
-# Hi 👋 I'm Disha Andrapiya
+# 👋 Hi, I'm Disha Andrapiya
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=5BCDEC&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Developer;Computer+Engineering+Student;Building+RAG+Applications;Python+%7C+Java+%7C+MERN+Developer;Open+Source+Contributor" />
+### AI & Machine Learning Developer | Computer Engineering Student
 
-<br>
+Building intelligent applications using **Python, RAG, LLMs, and Computer Vision** while exploring scalable AI solutions.
 
-<a href="https://github.com/andrapiyadisha">
-<img src="https://komarev.com/ghpvc/?username=andrapiyadisha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/andrapiyadisha?tab=followers">
-<img src="https://img.shields.io/github/followers/andrapiyadisha?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/andrapiyadisha">
-<img src="https://img.shields.io/github/stars/andrapiyadisha?affiliations=OWNER&style=for-the-badge"/>
-</a>
+<p>
+  <a href="https://github.com/andrapiyadisha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/disha-andrapiya-2ba5342b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:dishaandrapiya1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
 🎓 Computer Engineering Student at **Darshan University**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning and Full Stack Development**
+💡 I enjoy building AI-powered applications that solve practical problems using **Machine Learning, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Computer Vision**.
 
-🚀 Currently building
-
-- AI RAG Applications
-- Computer Vision Projects
-- Intelligent Web Applications
-
-🌱 Currently Learning
+🌱 Currently exploring:
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Deep Learning
 - MLOps
+- Computer Vision
 
-🎯 2026 Goals
+🎯 **Goal:** Secure an AI/ML Internship and contribute to impactful real-world AI products.
 
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql"/>
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+**Libraries & Frameworks**
+
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- OpenCV
+- YOLO
+- Groq API
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 AI Placement Preparation Assistant
+
+**Tech:** Python • LangChain • ChromaDB • Streamlit • Groq • Sentence Transformers
+
+An AI-powered chatbot that answers placement-related questions from uploaded PDFs using Retrieval-Augmented Generation.
+
+**Highlights**
+
+- Semantic Search
+- Context-aware Responses
+- Vector Database
+- Interactive Chat Interface
+
+---
+
+## 🎥 YouTube RAG Chatbot
+
+**Tech:** Python • LangChain • ChromaDB • Streamlit • Groq
+
+Chat with any YouTube video using transcript extraction, embeddings, semantic search, and LLM-powered responses.
+
+**Highlights**
+
+- Automatic Transcript Extraction
+- Vector Search
+- RAG Pipeline
+- Fast AI Responses
+
+---
+
+## 👥 Crowd Anomaly Detection System
+
+**Tech:** Python • YOLO • OpenCV • Streamlit
+
+Detects abnormal crowd activities in real time using computer vision and object detection.
+
+**Highlights**
+
+- Real-Time Detection
+- Interactive Dashboard
+- AI-based Monitoring
+
+---
+
+## 🎬 Movie Booking System
+
+**Tech:** MERN Stack
+
+Movie booking platform with authentication, admin dashboard, and booking management.
+
+---
+
+## 👨‍💼 Employee Management System
+
+**Tech:** Spring Boot • MySQL
+
+REST-based employee management system with CRUD operations and database integration.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andrapiyadisha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrapiyadisha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=andrapiyadisha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧠 Deep Learning
+- ⚙️ MLOps
+- ☁️ Docker & Deployment
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready AI applications
 - Contribute to Open Source
-- Build Production AI Projects
+- Learn advanced Deep Learning
+- Master MLOps
 - Secure an AI/ML Internship
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/disha-andrapiya-2ba5342b4">
+<p align="center">
+
+<a href="https://github.com/andrapiyadisha">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/disha-andrapiya-2ba5342b4/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -60,115 +197,14 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/andrapiyadisha">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,postman,docker,tensorflow,pytorch&perline=8"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Placement Preparation Assistant (RAG)
-
-🔹 Built an intelligent chatbot using **LangChain, ChromaDB, Sentence Transformers and Groq LLM**
-
-🔹 Supports semantic search over uploaded PDFs
-
-🔹 Provides context-aware responses with Retrieval-Augmented Generation
-
----
-
-## 🎥 YouTube RAG Chatbot
-
-🔹 Chat with any YouTube video
-
-🔹 Extracts transcripts automatically
-
-🔹 Semantic Search + Vector Database + LLM
-
-🔹 Built using LangChain + ChromaDB + Streamlit
-
----
-
-## 👥 Crowd Anomaly Detection System
-
-🔹 Real-time crowd monitoring using YOLO
-
-🔹 Detects abnormal activities
-
-🔹 Interactive Streamlit Dashboard
-
----
-
-## 🎬 Movie Booking System
-
-MERN Stack project with
-
-- Authentication
-- Admin Dashboard
-- Movie Booking
-- CRUD Operations
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrapiyadisha&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrapiyadisha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=andrapiyadisha&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andrapiyadisha&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrapiyadisha&theme=tokyo-night"/>
-
-</p>
-
----
-
-# ⚡ Quote
 
 <div align="center">
 
-> *"Building AI that solves real-world problems, one project at a time."*
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."*
 
 </div>
